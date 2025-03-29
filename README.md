@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/imgs/core_logo.svg" alt="Newton-logo" width="40%" />
+  <img src="./docs/img/core_logo.svg" alt="Newton-logo" width="40%" />
 </p>
 
 # newton

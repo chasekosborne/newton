@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/imgs/core_logo.svg" alt="Hyperswitch-Logo" width="40%" />
+  <img src="./docs/imgs/core_logo.svg" alt="Newton-logo" width="40%" />
 </p>
 
 # newton
